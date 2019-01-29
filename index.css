@@ -45,23 +45,23 @@ body {
 }
 
 .panel1 {
-    background-image: url(https://images.unsplash.com/photo-1527355753944-bb04d69fb030?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+    background-image: url(https://images.unsplash.com/photo-1536746803623-cef87080bfc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=632&q=80);
 }
 
 .panel2 {
-    background-image: url(https://images.unsplash.com/photo-1501671235514-80cdc301b43b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=776&q=80);
+    background-image: url(https://images.unsplash.com/photo-1511201632232-3e4a6e76a142?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=684&q=80);
 }
 
 .panel3 {
-    background-image: url(https://images.unsplash.com/photo-1536028128338-63aafb421561?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80);
+    background-image: url(https://images.unsplash.com/photo-1527355753944-bb04d69fb030?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
 }
 
 .panel4 {
-    background-image: url(https://images.unsplash.com/photo-1517894998153-2f491dd5ddd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+    background-image: url(https://images.unsplash.com/photo-1502656109408-152680a8ad1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
 }
 
 .panel5 {
-    background-image: url(https://images.unsplash.com/photo-1489098957513-b1ae22d9b212?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+    background-image: url(https://images.unsplash.com/photo-1533683083439-1a776a5653cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
 }
 
 /* Flex Children */
